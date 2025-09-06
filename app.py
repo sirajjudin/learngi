@@ -1,1 +1,1 @@
-print('this ia my cloudchamp version')
+print('this ia my ec2 version')
